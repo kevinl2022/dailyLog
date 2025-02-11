@@ -52,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: "kevl@27in.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  whatsapp: 
+  # whatsapp: 
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
