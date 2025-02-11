@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
@@ -17,7 +14,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 ## Here is a secondary heading
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+[This is a link to a different site](https://www.68in.com/) and [this is a link to a section inside this page](#local-urls).
 
 Here's a table:
 
