@@ -4,13 +4,9 @@ title: About me
 subtitle: Why you'
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is KevinL. I have the following qualities:
 
-- I 
-- I
+- Love thinking
+- Love to be quiet
+- IT Engineer
 
-What else do you need?
-
-### My story
-
-To be honest
